@@ -1,0 +1,41 @@
+.box {
+  width: 150px;
+  height: 250px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+.mai {
+  width: 150px;
+  margin-bottom: 0px;
+}
+
+.name {
+  margin-top: 4px;
+  margin-left: 5px;
+  margin-bottom: 0px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.mutal-friends {
+  margin-top: 4px;
+  margin-bottom: 8px;
+  margin-left: 5px;
+  color: gray;
+}
+
+.add-friend {
+  margin-left: 5px;
+  background-color: rgb(47, 127, 231);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 15px;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+}
+
+.add-friend:hover {
+  cursor: pointer;
+}
